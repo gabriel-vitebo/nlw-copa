@@ -126,8 +126,6 @@ function getSelect() {
   let value = optionValue.value
   removeAllClass()
   bgBody.classList.add(`bg-${value}`)
-
-  console.log(value)
 }
 
 function removeAllClass() {

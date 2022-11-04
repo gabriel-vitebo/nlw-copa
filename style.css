@@ -156,7 +156,7 @@ header {
   }
 }
 
-@media (min-width: 700px) {
+@media (min-width: 800px) {
   #cards {
     flex-direction: row;
     max-width: 670px;
@@ -174,4 +174,13 @@ header {
     transform: translatex(0);
   }
 }
+}
+
+@media (min-width: 1200px) {
+  #cards {
+    display: grid;
+    place-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3.2rem;
+  }
 }
