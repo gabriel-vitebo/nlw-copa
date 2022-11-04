@@ -119,6 +119,19 @@ document.querySelector("#cards").innerHTML =
         createGame("cameroon", "16:00", "brazil")
     )
 
-    const bgBody = document.querySelector('body')
-    const choiseTeam = document.getElementById("choise-team")
-    choiseTeam.options[choiseTeam.selectedIndex].value
+let bgBody = document.querySelector('body')
+let selectTeam = document.querySelector("#choise-team")
+function getSelect() {
+  let optionValue = selectTeam.options[selectTeam.selectedIndex]
+  let value = optionValue.value
+  removeAllClass()
+  bgBody.classList.add(`bg-${value}`)
+
+  console.log(value)
+}
+
+function removeAllClass() {
+  bgBody.classList.remove('bg-initial')
+  bgBody.classList.remove('bg-brazil')
+  bgBody.classList.remove('bg-germany')
+}
