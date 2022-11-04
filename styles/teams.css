@@ -58,3 +58,108 @@ body.bg-costaRica {
   --border-color: #0052B4;
   --bg: url(./assets/bg-costaRica.svg)
 }
+
+body.bg-croatia {
+  --border-color: #338AF3;
+  --bg: url(./assets/bg-croatia.svg)
+}
+
+body.bg-denmark {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-denmark.svg)
+}
+
+body.bg-ecuador {
+  --border-color: #FFDA44;
+  --bg: url(./assets/bg-ecuador.svg)
+}
+
+body.bg-spain {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-spain.svg)
+}
+
+body.bg-unitedStates {
+  --border-color: #0052B4;
+  --bg: url(./assets/bg-unitedStates.svg)
+}
+
+body.bg-france {
+  --border-color: #0052B4;
+  --bg: url(./assets/bg-france.svg)
+}
+
+body.bg-ghana {
+  --border-color: #496E2D;
+  --bg: url(./assets/bg-ghana.svg)
+}
+
+body.bg-netherlands {
+  --border-color: #0052B4;
+  --bg: url(./assets/bg-netherlands.svg)
+}
+
+body.bg-england {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-england.svg)
+}
+
+body.bg-iran {
+  --border-color: #6DA544;
+  --bg: url(./assets/bg-iran.svg)
+}
+
+body.bg-japan {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-japan.svg)
+}
+
+body.bg-morocco {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-morocco.svg)
+}
+
+body.bg-mexico {
+  --border-color: #6DA544;
+  --bg: url(./assets/bg-mexico.svg)
+}
+
+body.bg-wales {
+  --border-color: #6DA544;
+  --bg: url(./assets/bg-wales.svg)
+}
+
+body.bg-poland {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-poland.svg)
+}
+
+body.bg-portugal {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-portugal.svg)
+}
+
+body.bg-senegal {
+  --border-color: #FFDA44;
+  --bg: url(./assets/bg-senegal.svg)
+}
+
+body.bg-serbia {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-serbia.svg)
+}
+
+body.bg-switzerland {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-switzerland.svg)
+}
+
+body.bg-tunisia {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-tunisia.svg)
+}
+
+body.bg-uruguay {
+  --border-color: #338AF3;
+  --bg: url(./assets/bg-uruguay.svg)
+}
