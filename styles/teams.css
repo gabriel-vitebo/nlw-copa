@@ -1,0 +1,60 @@
+body.bg-initial {
+  --border-color: #338AF3;
+  --bg: url(./assets/bg-blue.svg);
+
+}
+
+body.bg-germany {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-germany.svg)
+}
+
+body.bg-saudiArabia {
+  --border-color: #6DA544;
+  --bg: url(./assets/bg-saudiArabia.svg);
+}
+
+body.bg-argentina {
+  --border-color: #338AF3;
+  --bg: url(./assets/bg-argentina.svg);
+}
+
+body.bg-australia {
+  --border-color: #0052B4;
+  --bg: url(./assets/bg-australia.svg);
+}
+
+body.bg-belgium {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-belgium.svg);
+}
+
+body.bg-brazil {
+  --border-color: #047C3F;
+  --bg: url(./assets/bg-brazil.svg)
+}
+
+body.bg-cameroon {
+  --border-color: #496E2D;
+  --bg: url(./assets/bg-cameroon.svg)
+}
+
+body.bg-canada {
+  --border-color: #D80027;
+  --bg: url(./assets/bg-canada.svg)
+}
+
+body.bg-qatar {
+  --border-color: #751A46;
+  --bg: url(./assets/bg-qatar.svg)
+}
+
+body.bg-southKorea {
+  --border-color: #0052B4;
+  --bg: url(./assets/bg-southKorea.svg)
+}
+
+body.bg-costaRica {
+  --border-color: #0052B4;
+  --bg: url(./assets/bg-costaRica.svg)
+}

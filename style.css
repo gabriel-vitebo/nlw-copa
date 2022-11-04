@@ -1,3 +1,5 @@
+@import url(./styles/teams.css);
+
 *{
   padding: 0;
   margin: 0;
@@ -16,22 +18,6 @@
   font-size: 62.5%;
   --main-ff: 'Roboto', sans-serif;
   
-}
-
-body.bg-initial {
-  --border-color: #338AF3;
-  --bg: url(./assets/bg-blue.svg);
-
-}
-
-body.bg-brazil {
-  --border-color: #047C3F;
-  --bg: url(./assets/bg-brazil.svg)
-}
-
-body.bg-germany {
-  --border-color: #D80027;
-  --bg: url(./assets/bg-germany.svg)
 }
 
 ul {

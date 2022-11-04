@@ -132,6 +132,15 @@ function getSelect() {
 
 function removeAllClass() {
   bgBody.classList.remove('bg-initial')
-  bgBody.classList.remove('bg-brazil')
   bgBody.classList.remove('bg-germany')
+  bgBody.classList.remove("bg-saudiArabia")
+  bgBody.classList.remove("bg-argentina")
+  bgBody.classList.remove("bg-australia")
+  bgBody.classList.remove("bg-belgium")
+  bgBody.classList.remove('bg-brazil')
+  bgBody.classList.remove('bg-cameroon')
+  bgBody.classList.remove('bg-canada')
+  bgBody.classList.remove('bg-qatar')
+  bgBody.classList.remove("bg-southKorea")
+  bgBody.classList.remove("bg-costaRica")
 }
